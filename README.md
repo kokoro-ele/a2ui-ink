@@ -42,6 +42,17 @@ render(<A2uiSurface surface={surface} />);
 Image, Video, and AudioPlayer render terminal placeholders because Ink cannot
 display media. Markdown markers in Text are reduced to a plain-text fallback.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/67536928-780a-4473-be50-8ff505984521
+
+
+https://github.com/user-attachments/assets/bf2ee749-e5f0-4715-b56a-e212a4273083
+
+
+
 ## Examples
 
 The repository includes the official v0.9.1 basic catalog examples as test and
